@@ -1,0 +1,5 @@
+format: jb-book
+root: index.md
+chapters:
+  - file: agents/README.md
+  - file: multiagents/README.md
